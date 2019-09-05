@@ -385,9 +385,11 @@ a i {
 .btn-success.btn-outline {
     color: #5cb85c;
 }
-
+/*
+ Here is the change for color contrast; was #5bc0de before.
+*/
 .btn-info.btn-outline {
-    color: #5bc0de;
+    color: #000080;
 }
 
 .btn-warning.btn-outline {
